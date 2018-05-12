@@ -1,0 +1,37 @@
+_repo: William-Blake--A-Critical-Essay_35995
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Swinburne, Algernon Charles
+    aliases:
+    - Maitland, A. C. (Algernon Charles)
+    - Maitland, Thomas
+    birthdate: 1837
+    deathdate: 1909
+    gutenberg_agent_id: '832'
+    url: http://www.gutenberg.org/2009/agents/832
+    wikipedia: http://en.wikipedia.org/wiki/Algernon_Swinburne
+description: I. Life and designs -- II. Lyrical poems -- III. The prophetic books.
+gutenberg_issued: '2011-05-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35995'
+  lccn: 07010029
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Art and literature -- England -- History -- 19th century'
+- !lcc 'ND'
+- !lcsh 'Blake, William, 1757-1827 -- Criticism and interpretation'
+- !lcsh 'Poets, English -- 19th century -- Biography'
+- !lcsh 'Art and literature -- England -- History -- 18th century'
+- !lcsh 'Poets, English -- 18th century -- Biography'
+- !lcc 'PR'
+- !lcsh 'Artists -- England -- Biography'
+title: 'William Blake: A Critical Essay'
+url: http://www.gutenberg.org/ebooks/35995
